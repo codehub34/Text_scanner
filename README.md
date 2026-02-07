@@ -10,12 +10,14 @@ This project uses:
 - Opens your webcam and continuously detects text in the frame
 - Highlights detected text with green bounding boxes
 - Displays recognized text above each box
+
 📸 Scan Mode
 Press S to:
 - Freeze the current frame
 - Run OCR only on that frozen image
 - Display the detected text and bounding boxes
 - Save all extracted text to a timestamped .txt file
+
 📝 Output Example
 Saved files look like:
 scan_1738951234.txt
